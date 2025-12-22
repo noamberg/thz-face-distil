@@ -1,6 +1,6 @@
-# THz Face Recognition with Multi-Task Learning
+# THz Face Recognition and Reconstruction with Multi-Task Learning, supports Cross-Modal Visible images + knowledge distillation
 
-Deep learning framework for THz face recognition with three tasks: verification, posture classification, and image reconstruction.
+Deep learning framework for THz face analysis with three tasks: verification, posture classification, and image reconstruction.
 
 ## Quick Start
 
