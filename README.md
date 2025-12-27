@@ -1,6 +1,6 @@
 # THz Face Reconstruction with Multi-Task Learning, supports Cross-Modal Visible images + Knowledge Distillation
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-🏆 Best Student Paper Award in Artificial Intelligence for Security and Defence, SPIE Security + Denfence 2025 (Madrid) 
+🏆 Best Student Paper Award in Artificial Intelligence for Security and Defence, SPIE Security + Defence 2025 (Madrid) 
 
 Deep learning framework for THz face analysis with three tasks: verification, posture classification, and image reconstruction.
 
