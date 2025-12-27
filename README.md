@@ -1,4 +1,5 @@
 # THz Face Reconstruction with Multi-Task Learning, supports Cross-Modal Visible images + Knowledge Distillation
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Deep learning framework for THz face analysis with three tasks: verification, posture classification, and image reconstruction.
 
@@ -223,9 +224,10 @@ DISTILL_CONFIG = {
 
 If you use this code, please cite:
 ```
-[Your citation here]
+Bergman N, Yildirim IO, Sahin AB, Altan H, Yitzhaky Y. A deep-learning framework for concealed and unconcealed face analysis in sub millimeter wave imaging. InArtificial Intelligence for Security and Defence Applications III 2025 Oct 27 (Vol. 13679, pp. 221-227). SPIE.
 ```
 
 ## License
 
-[Your license here]
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
