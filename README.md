@@ -2,6 +2,8 @@
 
 Deep learning framework for THz face analysis with three tasks: verification, posture classification, and image reconstruction.
 
+<img width="913" height="607" alt="pipe-obfuscated" src="https://github.com/user-attachments/assets/bd1e9936-4c90-478f-81b3-4f2d689a5b99" />
+
 ## Quick Start
 
 ```bash
@@ -33,6 +35,8 @@ Privileged information learning with teacher-student distillation.
 - **Use when:** You have both THz and visible images
 - **Training:** THz + visible images (teacher supervises student)
 - **Inference:** THz images only (no visible images needed)
+
+<img width="540" height="1134" alt="teacher-obfuscated" src="https://github.com/user-attachments/assets/ff6e0cbd-b5c5-4b8a-9984-d81b8d28804e" />
 
 ## Three Tasks
 
@@ -109,7 +113,7 @@ MODEL_CONFIG = {
 ## Features
 
 ### Architecture
-- **Encoder:** Custom ResNet or pretrained ResNet18
+- **Encoder:** Custom CNN Encoder
 - **Verification:** Supervised Contrastive Loss + MLP head
 - **Classification:** 5-class linear classifier
 - **Reconstruction:** Mixture-of-Experts U-Net (one expert per posture)
