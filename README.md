@@ -4,6 +4,7 @@
 Deep learning framework for THz face analysis with three tasks: verification, posture classification, and image reconstruction.
 
 <img width="913" height="607" alt="pipe-obfuscated" src="https://github.com/user-attachments/assets/bd1e9936-4c90-478f-81b3-4f2d689a5b99" />
+🏆 Best Student Paper Award in Artificial Intelligence for Security and Defence, SPIE Security + Denfence 2025 (Madrid) 
 
 ## Quick Start
 
@@ -224,7 +225,7 @@ DISTILL_CONFIG = {
 
 If you use this code, please cite:
 ```
-Bergman N, Yildirim IO, Sahin AB, Altan H, Yitzhaky Y. A deep-learning framework for concealed and unconcealed face analysis in sub millimeter wave imaging. InArtificial Intelligence for Security and Defence Applications III 2025 Oct 27 (Vol. 13679, pp. 221-227). SPIE.
+Bergman N, Yildirim IO, Sahin AB, Altan H, Yitzhaky Y. A deep-learning framework for concealed and unconcealed face analysis in sub millimeter wave imaging. In Artificial Intelligence for Security and Defence Applications III 2025 Oct 27 (Vol. 13679, pp. 221-227). SPIE.
 ```
 
 ## License
