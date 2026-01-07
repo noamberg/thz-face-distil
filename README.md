@@ -41,6 +41,12 @@ Privileged information learning with teacher-student distillation.
 
 <img width="540" height="1134" alt="teacher-obfuscated" src="https://github.com/user-attachments/assets/ff6e0cbd-b5c5-4b8a-9984-d81b8d28804e" />
 
+## Weights Files (pth)
+Pretrained weights for Thz-only model and Cross-Modal Visible-THz student model are available for free at:
+https://drive.google.com/drive/folders/1nU3UbM4dwTui0FnwviI1XxwHPXLV_av_?usp=sharing
+
+- Can be used as a pretrained starting point for other modalities as well
+
 ## Three Tasks
 
 1. **Face Verification:** Identify if two images are the same person
